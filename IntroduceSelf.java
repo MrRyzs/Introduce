@@ -1,7 +1,7 @@
 public class IntroduceSelf{
 	public static void main(String[] args) {
-		String lastName = "Tamam";
-		String fullName = "Mufid Nur Tamam";
+		String lastName = "Ryzs";
+		String fullName = "Mr Ryzs";
 		int age = 15;
 		
 		System.out.println("My Name is " + fullName);
